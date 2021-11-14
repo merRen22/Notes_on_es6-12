@@ -77,3 +77,11 @@ helloPromise(foo)
   .then((response) => console.log('response -> ', response))
   .then(() => console.log('message -> Hello World!'))
   .catch((error) => console.log('error -> ', error));
+
+// classes
+// when using default exports it is not necessary to use the same name as in the file
+import myHello from './modmyHelloule';
+// when using named exports you should use the exact same name
+// as here 👉 import { hello, bye } from './module'
+
+console.log(myHello());

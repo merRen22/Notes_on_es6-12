@@ -1,6 +1,7 @@
 {
   "name": "ecma",
   "version": "1.0.0",
+  "type": "module",
   "description": "testing ecma 6 main functions",
   "main": "index.js",
   "scripts": {
