@@ -28,7 +28,7 @@ console.log(hello);
 console.log(hello.trimEnd()); // end
 
 /**
- * Optional catch biding
+ * Optiomal catch binding
  * we can omit naming the error inside the catch function
  */
 try {
