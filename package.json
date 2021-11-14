@@ -2,7 +2,7 @@
   "name": "ecma",
   "version": "1.0.0",
   "type": "module",
-  "description": "testing ecma 6 main functions",
+  "description": "testing ecma 6-12 main functions",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
